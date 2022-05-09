@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.neothedeveloper.biomesplus.client.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "PlayerJoinMixin",
+    "PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
